@@ -1,0 +1,211 @@
+City_ID,City,Solo_Budget,Couple_Budget,Child_Budget
+1,Paris,150,250,75
+2,Marseille,120,200,60
+3,Lyon,130,220,65
+4,New York City,200,350,100
+5,Los Angeles,180,300,90
+6,Las Vegas,150,250,75
+7,Madrid,150,250,75
+8,Barcelona,150,250,75
+9,Seville,130,220,65
+10,Rome,150,250,75
+11,Milan,160,270,80
+12,Venice,180,300,90
+13,Beijing,120,200,60
+14,Shanghai,130,220,65
+15,Guangzhou,110,180,55
+16,Mexico City,100,170,50
+17,Cancun,130,220,65
+18,Playa del Carmen,125,210,63
+19,London,180,300,90
+20,Manchester,150,250,75
+21,Edinburgh,160,270,80
+22,Bangkok,100,170,50
+23,Phuket,120,200,60
+24,Chiang Mai,110,180,55
+25,Berlin,150,250,75
+26,Munich,160,270,80
+27,Hamburg,150,250,75
+28,Tokyo,180,300,90
+29,Kyoto,160,270,80
+30,Osaka,160,270,80
+31,Toronto,160,270,80
+32,Vancouver,180,300,90
+33,Montreal,160,270,80
+34,Sydney,180,300,90
+35,Melbourne,160,270,80
+36,Brisbane,150,250,75
+37,Athens,130,220,65
+38,Thessaloniki,120,200,60
+39,Heraklion,125,210,63
+40,New Delhi,90,150,45
+41,Mumbai,100,170,50
+42,Jaipur,95,160,48
+43,Rio de Janeiro,120,200,60
+44,Sao Paulo,125,210,63
+45,Salvador,110,180,55
+46,Amsterdam,160,270,80
+47,Rotterdam,150,250,75
+48,The Hague,150,250,75
+49,Seoul,150,250,75
+50,Busan,130,220,65
+51,Incheon,135,225,68
+52,Moscow,130,220,65
+53,St. Petersburg,150,250,75
+54,Sochi,135,225,68
+55,Buenos Aires,120,200,60
+56,Cordoba,100,170,50
+57,Rosario,110,180,55
+58,Lisbon,150,250,75
+59,Porto,135,225,68
+60,Faro,125,210,63
+61,Vienna,160,270,80
+62,Salzburg,150,250,75
+63,Innsbruck,155,260,78
+64,Zurich,180,300,90
+65,Geneva,185,310,93
+66,Basel,160,270,80
+67,Stockholm,160,270,80
+68,Gothenburg,150,250,75
+69,Malmo,135,225,68
+70,Cairo,90,150,45
+71,Luxor,100,170,50
+72,Sharm El Sheikh,120,200,60
+73,Jakarta,95,160,48
+74,Bali,120,200,60
+75,Bandung,100,170,50
+76,Hanoi,100,170,50
+77,Ho Chi Minh City,110,180,55
+78,Da Nang,120,200,60
+79,Kuala Lumpur,120,200,60
+80,Penang,110,180,55
+81,Langkawi,100,170,50
+82,Marrakech,90,150,45
+83,Casablanca,100,170,50
+84,Fes,95,160,48
+85,Brussels,160,270,80
+86,Antwerp,150,250,75
+87,Ghent,140,230,70
+88,Prague,150,250,75
+89,Brno,130,220,65
+90,Ostrava,120,200,60
+91,Manila,100,170,50
+92,Cebu City,90,150,45
+93,Davao City,85,140,42
+94,Warsaw,140,230,70
+95,Krakow,130,220,65
+96,Gdansk,125,210,63
+97,Copenhagen,160,270,80
+98,Aarhus,140,230,70
+99,Odense,130,220,65
+100,Oslo,160,270,80
+101,Bergen,150,250,75
+102,Stavanger,140,230,70
+103,Johannesburg,120,200,60
+104,Cape Town,130,220,65
+105,Durban,110,180,55
+106,Lima,100,170,50
+107,Cusco,110,180,55
+108,Arequipa,95,160,48
+109,Budapest,150,250,75
+110,Debrecen,130,220,65
+111,Szeged,120,200,60
+112,Helsinki,160,270,80
+113,Tampere,140,230,70
+114,Espoo,135,225,68
+115,Dublin,150,250,75
+116,Cork,130,220,65
+117,Galway,120,200,60
+118,Singapore City,120,200,60
+119,Sentosa,100,170,50
+120,Marina Bay,110,180,55
+121,Jerusalem,120,200,60
+122,Tel Aviv,150,250,75
+123,Haifa,130,220,65
+124,Zagreb,140,230,70
+125,Split,120,200,60
+126,Dubrovnik,130,220,65
+127,Auckland,180,300,90
+128,Wellington,160,270,80
+129,Christchurch,150,250,75
+130,Bogota,100,170,50
+131,Medellin,110,180,55
+132,Cartagena,100,170,50
+133,Santiago,120,200,60
+134,Valparaiso,110,180,55
+135,Vina del Mar,110,180,55
+136,Riyadh,120,200,60
+137,Jeddah,110,180,55
+138,Dammam,100,170,50
+139,Dubai,150,250,75
+140,Abu Dhabi,140,230,70
+141,Sharjah,130,220,65
+142,Taipei,130,220,65
+143,Kaohsiung,120,200,60
+144,Taichung,110,180,55
+145,Kiev,120,200,60
+146,Lviv,110,180,55
+147,Odessa,100,170,50
+148,Tehran,100,170,50
+149,Isfahan,90,150,45
+150,Shiraz,85,140,42
+151,Bucharest,140,230,70
+152,Cluj-Napoca,120,200,60
+153,Timisoara,110,180,55
+154,Sofia,130,220,65
+155,Plovdiv,120,200,60
+156,Varna,110,180,55
+157,Bratislava,140,230,70
+158,Kosice,120,200,60
+159,Banska Bystrica,110,180,55
+160,Hong Kong,150,250,75
+161,Kowloon,140,230,70
+162,New Territories,130,220,65
+163,Belgrade,130,220,65
+164,Novi Sad,110,180,55
+165,Nis,100,170,50
+166,Vilnius,130,220,65
+167,Kaunas,120,200,60
+168,Klaipeda,110,180,55
+169,Riga,130,220,65
+170,Daugavpils,110,180,55
+171,Liepaja,100,170,50
+172,Tallinn,130,220,65
+173,Tartu,120,200,60
+174,Narva,110,180,55
+175,Ljubljana,140,230,70
+176,Maribor,120,200,60
+177,Koper,110,180,55
+178,Minsk,120,200,60
+179,Brest,110,180,55
+180,Gomel,100,170,50
+181,Luxembourg City,150,250,75
+182,Esch-sur-Alzette,130,220,65
+183,Differdange,120,200,60
+184,Kuwait City,120,200,60
+185,Hawalli,110,180,55
+186,Al Ahmadi,100,170,50
+187,Doha,150,250,75
+188,Al Rayyan,130,220,65
+189,Al Wakrah,120,200,60
+190,Muscat,130,220,65
+191,Seeb,120,200,60
+192,Salalah,110,180,55
+193,Manama,120,200,60
+194,Riffa,110,180,55
+195,Muharraq,100,170,50
+196,Nicosia,120,200,60
+197,Limassol,110,180,55
+198,Larnaca,100,170,50
+199,Valletta,120,200,60
+200,Sliema,110,180,55
+201,St. Julian's,100,170,50
+202,Reykjavik,150,250,75
+203,Kópavogur,130,220,65
+204,Hafnarfjörður,120,200,60
+205,Podgorica,120,200,60
+206,Niksic,110,180,55
+207,Herceg Novi,100,170,50
+208,Beirut,120,200,60
+209,Tripoli,110,180,55
+210,Sidon,100,170,50

@@ -1,0 +1,211 @@
+City_ID,City,Country,solo_hotel,family_hotel,couple_hotel
+1,Paris,France,Hotel Le Royal Monceau Raffles Paris ,Disneyland Hotel ,Hotel Le Bristol Paris 
+2,Marseille,France,Mama Shelter Marseille ,InterContinental Marseille - Hotel Dieu ,InterContinental Marseille - Hotel Dieu 
+3,Lyon,France,Mama Shelter Lyon ,Okko Hotels Lyon Pont Lafayette ,Cour des Loges 
+4,New York City,United States,The Marlton Hotel New York City ,"The Ritz-Carlton New York, Central Park ",The Peninsula New York 
+5,Los Angeles,United States,The NoMad Hotel Los Angeles ,"The Ritz-Carlton, Los Angeles ","The Ritz-Carlton, Los Angeles "
+6,Las Vegas,United States,The Cosmopolitan of Las Vegas ,The Venetian Resort Las Vegas ,The Venetian Resort Las Vegas 
+7,Madrid,Spain,The Principal Madrid ,Hotel Miguel Angel by BlueBay ,"The Westin Palace, Madrid "
+8,Barcelona,Spain,Hotel Arts Barcelona ,Hotel Arts Barcelona ,Hotel Arts Barcelona 
+9,Seville,Spain,Hotel Alfonso XIII a Luxury Collection Hotel Seville ,"Hotel Alfonso XIII, a Luxury Collection Hotel, Seville ","Hotel Alfonso XIII, a Luxury Collection Hotel, Seville "
+10,Rome,Italy,Hotel de Russie Rome ,"Rome Cavalieri, A Waldorf Astoria Hotel ",Hotel Eden Rome 
+11,Milan,Italy,Hotel VIU Milan ,Armani Hotel Milano ,Armani Hotel Milano 
+12,Venice,Italy,The Gritti Palace Venice ,Baglioni Hotel Luna ,Belmond Hotel Cipriani 
+13,Beijing,China,Rosewood Beijing ,The Peninsula Beijing ,"The Opposite House, Beijing "
+14,Shanghai,China,The PuLi Hotel and Spa Shanghai ,"The Ritz-Carlton Shanghai, Pudong ","The Langham, Shanghai Xintiandi "
+15,Guangzhou,China,Mandarin Oriental Guangzhou ,Four Seasons Hotel Guangzhou ,"The Ritz-Carlton, Guangzhou "
+16,Mexico City,Mexico,St Regis Mexico City ,Four Seasons Hotel Mexico City ,Four Seasons Hotel Mexico City 
+17,Cancun,Mexico,NIZUC Resort & Spa Cancun ,JW Marriott Cancun Resort & Spa ,"NIZUC Resort & Spa, Cancun "
+18,Playa del Carmen,Mexico,Thompson Playa Del Carmen ,Fairmont Mayakoba ,Viceroy Riviera Maya 
+19,London,United Kingdom,The Langham London ,The Ritz London ,The Ned 
+20,Manchester,United Kingdom,The Lowry Hotel Manchester ,The Lowry Hotel ,King Street Townhouse 
+21,Edinburgh,United Kingdom,The Balmoral Edinburgh ,The Balmoral Hotel ,The Witchery by the Castle 
+22,Bangkok,Thailand,Mandarin Oriental Bangkok ,The Peninsula Bangkok ,The Siam 
+23,Phuket,Thailand,The Nai Harn Phuket ,The Nai Harn Phuket ,Sri Panwa Phuket 
+24,Chiang Mai,Thailand,137 Pillars House Chiang Mai ,Four Seasons Resort Chiang Mai ,137 Pillars House 
+25,Berlin,Germany,Hotel Adlon Kempinski Berlin ,Hotel Adlon Kempinski Berlin ,Hotel de Rome 
+26,Munich,Germany,Mandarin Oriental Munich ,"Mandarin Oriental, Munich ",Hotel Vier Jahreszeiten Kempinski München 
+27,Hamburg,Germany,Fairmont Hotel Vier Jahreszeiten Hamburg ,Fairmont Hotel Vier Jahreszeiten Hamburg ,Fairmont Hotel Vier Jahreszeiten 
+28,Tokyo,Japan,The Tokyo Station Hotel ,The Peninsula Tokyo ,Aman Tokyo 
+29,Kyoto,Japan,Suiran a Luxury Collection Hotel Kyoto ,"Suiran, a Luxury Collection Hotel, Kyoto ",HOSHINOYA Kyoto 
+30,Osaka,Japan,The St. Regis Osaka-  ,"The Ritz-Carlton, Osaka ","The Ritz-Carlton, Osaka "
+31,Toronto,Canada,The Ritz-Carlton Toronto ,"The Ritz-Carlton, Toronto ",The Hazelton Hotel 
+32,Vancouver,Canada,Fairmont Pacific Rim Vancouver ,Fairmont Pacific Rim ,Fairmont Pacific Rim 
+33,Montreal,Canada,Hotel Le St-James Montreal ,"Ritz-Carlton, Montreal ",Hotel Le St-James 
+34,Sydney,Australia,Park Hyatt Sydney ,"The Langham, Sydney ",Park Hyatt Sydney 
+35,Melbourne,Australia,The Langham Melbourne ,"The Langham, Melbourne ","The Langham, Melbourne "
+36,Brisbane,Australia,W Brisbane ,The Westin Brisbane ,W Brisbane 
+37,Athens,Greece,Hotel Grande Bretagne Athens ,"Hotel Grande Bretagne, a Luxury Collection Hotel, Athens ",Hotel Grande Bretagne 
+38,Thessaloniki,Greece,The Met Hotel Thessaloniki ,Electra Palace Thessaloniki ,Daios Luxury Living 
+39,Heraklion,Greece,GDM Megaron Hotel Heraklion ,Creta Maris Beach Resort ,GDM Megaron 
+40,New Delhi,India,The Leela Palace New Delhi ,The Leela Palace New Delhi ,The Leela Palace New Delhi 
+41,Mumbai,India,The St. Regis Mumbai ,The Oberoi Mumbai ,The Taj Mahal Palace 
+42,Jaipur,India,Taj Rambagh Palace Jaipur ,The Oberoi Rajvilas ,The Oberoi Rajvilas 
+43,Rio de Janeiro,Brazil,Belmond Copacabana Palace Rio de Janeiro ,Belmond Copacabana Palace ,Belmond Copacabana Palace 
+44,Sao Paulo,Brazil,Hotel Unique Sao Paulo ,Hotel Unique ,Hotel Fasano São Paulo 
+45,Salvador,Brazil,Fera Palace Hotel Salvador ,Fera Palace Hotel ,Fera Palace Hotel 
+46,Amsterdam,Netherlands,Waldorf Astoria Amsterdam ,Conservatorium Hotel ,Pulitzer Amsterdam 
+47,Rotterdam,Netherlands,Mainport Design Hotel Rotterdam ,Hotel Rotterdam ,Mainport Design Hotel 
+48,The Hague,Netherlands,Hotel Des Indes The Hague ,Family Inn ,Hotel Des Indes 
+49,Seoul,South Korea,The Shilla Seoul ,Seoul Family Suites ,The Shilla Seoul 
+50,Busan,South Korea,Park Hyatt Busan ,Busan Beach Resort & Spa ,Park Hyatt Busan 
+51,Incheon,South Korea,Grand Hyatt Incheon ,Incheon Family Retreat ,Grand Hyatt Incheon 
+52,Moscow,Russia,Four Seasons Hotel Moscow ,Moscow Family Haven ,"The Ritz-Carlton, Moscow "
+53,St. Petersburg,Russia,Belmond Grand Hotel Europe St. Petersburg ,St. Petersburg Family Lodge ,Belmond Grand Hotel Europe 
+54,Sochi,Russia,RODINA Grand Hotel & SPA Sochi ,Sochi Family Resort ,RODINA Grand Hotel & SPA 
+55,Buenos Aires,Argentina,Alvear Palace Hotel Buenos Aires ,Buenos Aires Family Plaza ,Alvear Palace Hotel 
+56,Cordoba,Argentina,Azur Real Hotel Boutique Cordoba ,Cordoba Family Inn ,Azur Real Hotel Boutique 
+57,Rosario,Argentina,Ros Tower Hotel Rosario ,Rosario Family Retreat ,Esplendor by Wyndham Savoy Rosario 
+58,Lisbon,Portugal,Four Seasons Hotel Ritz Lisbon ,Lisbon Family Hotel ,Valverde Hotel 
+59,Porto,Portugal,The Yeatman Porto ,Porto Family Suites ,The Yeatman 
+60,Faro,Portugal,Hotel Faro & Beach Club Faro ,Faro Family Resort ,Pousada Palácio de Estói 
+61,Vienna,Austria,Hotel Sacher Wien Vienna ,Vienna Family Lodge ,Hotel Sacher Wien 
+62,Salzburg,Austria,Hotel Sacher Salzburg ,Salzburg Family Haven ,Hotel Goldener Hirsch 
+63,Innsbruck,Austria,The Penz Hotel Innsbruck ,Innsbruck Family Inn ,Hotel Schwarzer Adler 
+64,Zurich,Switzerland,The Dolder Grand Zurich ,Zurich Family Plaza ,Baur au Lac 
+65,Geneva,Switzerland,Four Seasons Hotel des Bergues Geneva ,Geneva Family Retreat ,Four Seasons Hotel des Bergues Geneva 
+66,Basel,Switzerland,Grand Hotel Les Trois Rois Basel ,Basel Family Hotel ,Grand Hotel Les Trois Rois 
+67,Stockholm,Sweden,Grand Hôtel Stockholm ,Stockholm Family Suites ,Grand Hôtel Stockholm 
+68,Gothenburg,Sweden,Clarion Hotel Post Gothenburg ,Gothenburg Family Resort ,Upper House 
+69,Malmo,Sweden,MJ's Hotel Malmö ,Malmo Family Lodge ,Hotel Duxiana Malmo 
+70,Cairo,Egypt,Four Seasons Hotel Cairo at Nile Plaza ,Cairo Family Haven ,Four Seasons Hotel Cairo at Nile Plaza 
+71,Luxor,Egypt,Sofitel Winter Palace Luxor ,Luxor Family Inn ,Sofitel Winter Palace Luxor 
+72,Sharm El Sheikh,Egypt,Four Seasons Resort Sharm El Sheikh ,Sharm El Sheikh Family Retreat ,Four Seasons Resort Sharm El Sheikh 
+73,Jakarta,Indonesia,The Hermitage Jakarta ,Jakarta Family Hotel ,"The Hermitage, a Tribute Portfolio Hotel "
+74,Bali,Indonesia,The St. Regis Bali Resort ,Bali Family Suites ,Four Seasons Resort Bali at Sayan 
+75,Bandung,Indonesia,Padma Hotel Bandung ,Bandung Family Resort ,Padma Hotel Bandung 
+76,Hanoi,Vietnam,Sofitel Legend Metropole Hanoi ,Hanoi Family Lodge ,Sofitel Legend Metropole Hanoi 
+77,Ho Chi Minh City,Vietnam,Park Hyatt Saigon Ho Chi Minh City ,Ho Chi Minh City Family Haven ,Park Hyatt Saigon 
+78,Da Nang,Vietnam,Four Seasons Resort The Nam Hai Hoi An ,Da Nang Family Inn ,InterContinental Danang Sun Peninsula Resort 
+79,Kuala Lumpur,Malaysia,The Ritz-Carlton Kuala Lumpur ,Kuala Lumpur Family Plaza ,The Majestic Hotel Kuala Lumpur 
+80,Penang,Malaysia,Eastern & Oriental Hotel Penang ,Penang Family Retreat ,Eastern & Oriental Hotel 
+81,Langkawi,Malaysia,The Datai Langkawi ,Langkawi Family Hotel ,The Datai Langkawi 
+82,Marrakech,Morocco,La Mamounia Marrakech ,Marrakech Family Suites ,Royal Mansour Marrakech 
+83,Casablanca,Morocco,Four Seasons Hotel Casablanca ,Casablanca Family Resort ,Four Seasons Hotel Casablanca 
+84,Fes,Morocco,Riad Fès - Relais & Châteaux Fes ,Fes Family Lodge ,Riad Fes 
+85,Brussels,Belgium,Hotel Amigo Brussels ,Brussels Family Haven ,Hotel Amigo 
+86,Antwerp,Belgium,Hotel Julien Antwerp ,Antwerp Family Inn ,Hotel Julien 
+87,Ghent,Belgium,1898 The Post Ghent ,Ghent Family Plaza ,Pillows Grand Boutique Hotel Reylof Ghent 
+88,Prague,Czech Republic,Mandarin Oriental Prague ,Prague Family Retreat ,"Mandarin Oriental, Prague "
+89,Brno,Czech Republic,Barceló Brno Palace ,Brno Family Hotel ,Barceló Brno Palace 
+90,Ostrava,Czech Republic,Clarion Congress Hotel Ostrava ,Ostrava Family Suites ,Clarion Congress Hotel Ostrava 
+91,Manila,Philippines,The Peninsula Manila ,Manila Family Lodge ,The Peninsula Manila 
+92,Cebu City,Philippines,Shangri-La's Mactan Resort & Spa Cebu City ,Cebu City Family Haven ,Crimson Resort & Spa Mactan 
+93,Davao City,Philippines,Marco Polo Davao ,Davao City Family Inn ,Marco Polo Davao 
+94,Warsaw,Poland,Hotel Bristol ,Warsaw Family Plaza ,"Hotel Bristol, a Luxury Collection Hotel, Warsaw "
+95,Krakow,Poland,Hotel Stary ,Krakow Family Retreat ,Hotel Stary 
+96,Gdansk,Poland,Hotel Gdańsk ,Hotel Gdańsk Boutique ,Hotel Gdańsk 
+97,Copenhagen,Denmark,Nimb Hotel ,Nimb Hotel ,Hotel d'Angleterre 
+98,Aarhus,Denmark,Hotel Royal ,Hotel Royal ,Hotel Royal 
+99,Odense,Denmark,Hotel Odeon ,First Hotel Grand ,Hotel Odeon 
+100,Oslo,Norway,The Thief ,The Thief ,The Thief 
+101,Bergen,Norway,Hotel Oleana ,Opus XVI ,Hotel Oleana 
+102,Stavanger,Norway,Clarion Hotel ,Clarion Hotel Stavanger ,Hotel Clarion Hotel Stavanger 
+103,Johannesburg,South Africa,Four Seasons Hotel The Westcliff ,"Four Seasons Hotel The Westcliff, Johannesburg ","The Saxon Hotel, Villas and Spa "
+104,Cape Town,South Africa,One&Only ,The Table Bay Hotel ,The Silo Hotel 
+105,Durban,South Africa,The Oyster Box ,The Oyster Box ,The Oyster Box 
+106,Lima,Peru,Country Club Lima Hotel ,Belmond Miraflores Park ,Country Club Lima Hotel 
+107,Cusco,Peru,Palacio del Inka ,Belmond Hotel Monasterio ,Inkaterra La Casona 
+108,Arequipa,Peru,Hotel Libertador ,Casa Andina Premium Arequipa ,Hotel Casa Andina Select Arequipa Plaza 
+109,Budapest,Hungary,Aria Hotel ,Corinthia Hotel Budapest ,Aria Hotel Budapest 
+110,Debrecen,Hungary,Hotel Divinus ,Hotel Óbester ,Hotel Lycium Debrecen 
+111,Szeged,Hungary,Tiszavirág ,Novotel Szeged ,Novotel Szeged 
+112,Helsinki,Finland,Hotel Kämp ,Hotel Kämp ,Hotel Kämp 
+113,Tampere,Finland,Original Sokos Hotel Ilves ,Solo Sokos Hotel Torni Tampere ,Hotel Tampere Hall 
+114,Espoo,Finland,Hotel GLO ,Hilton Helsinki Kalastajatorppa ,Hotel Hanasaari 
+115,Dublin,Ireland,The Shelbourne ,"The Shelbourne, Autograph Collection ",The Westbury 
+116,Cork,Ireland,The River Lee Hotel ,The River Lee Hotel ,The River Lee Hotel 
+117,Galway,Ireland,The G Hotel ,The G Hotel ,The G Hotel 
+118,Singapore City,Singapore,Marina Bay Sands ,Marina Bay Sands ,Marina Bay Sands 
+119,Sentosa,Singapore,Resorts World Sentosa ,"The Sentosa, A Beaufort Hotel ",Resorts World Sentosa Beach Villas 
+120,Marina Bay,Singapore,The Ritz-Carlton Millenia ,"The Ritz-Carlton, Millenia Singapore ","The RitzCarlton, Millenia Singapore "
+121,Jerusalem,Israel,Waldorf Astoria ,The King David ,Mamilla Hotel 
+122,Tel Aviv,Israel,The Jaffa ,"The Jaffa, a Luxury Collection Hotel, Tel Aviv ",The Norman Tel Aviv 
+123,Haifa,Israel,Dan Carmel ,Dan Carmel Haifa ,Dan Panorama Haifa 
+124,Zagreb,Croatia,Esplanade Zagreb Hotel ,Esplanade Zagreb Hotel ,Esplanade Zagreb Hotel 
+125,Split,Croatia,Hotel Park ,Hotel Park Split ,Hotel Park Split 
+126,Dubrovnik,Croatia,Hotel Excelsior ,Hotel Excelsior Dubrovnik ,Villa Dubrovnik 
+127,Auckland,New Zealand,Cordis Auckland ,Hotel DeBrett ,"Cordis, Auckland by Langham Hospitality Group "
+128,Wellington,New Zealand,QT Wellington ,QT Wellington ,QT Wellington 
+129,Christchurch,New Zealand,The George Christchurch ,The George ,The George Christchurch 
+130,Bogota,Colombia,Four Seasons Hotel Bogotá ,Four Seasons Hotel Casa Medina Bogota ,Four Seasons Hotel Bogotá 
+131,Medellin,Colombia,The Charlee Medellín ,Hotel Park 10 ,The Charlee Hotel 
+132,Cartagena,Colombia,Hotel Charleston Santa Teresa Cartagena ,Sofitel Legend Santa Clara Cartagena ,Hotel Las Americas Torre del Mar 
+133,Santiago,Chile,The Ritz-Carlton Santiago ,The Singular Santiago ,"The RitzCarlton, Santiago "
+134,Valparaiso,Chile,Palacio Astoreca Valparaíso ,Palacio Astoreca Hotel ,Palacio Astoreca Hotel 
+135,Vina del Mar,Chile,Sheraton Miramar Hotel & Convention Center Viña del Mar ,Hotel del Mar ,Sheraton Riyadh Hotel & Towers 
+136,Riyadh,Saudi Arabia,The Ritz-Carlton Riyadh ,"The Ritz-Carlton, Riyadh ","Park Hyatt Jeddah Marina, Club & Spa "
+137,Jeddah,Saudi Arabia,Park Hyatt Jeddah ,"Park Hyatt Jeddah - Marina, Club & Spa ",Sheraton Dammam Hotel & Convention Centre 
+138,Dammam,Saudi Arabia,Kempinski Al Othman Hotel Dammam ,Le Méridien Al Khobar ,Burj Al Arab 
+139,Dubai,United Arab Emirates,Burj Al Arab Jumeirah Dubai ,Burj Al Arab Jumeirah ,Emirates Palace 
+140,Abu Dhabi,United Arab Emirates,Emirates Palace Abu Dhabi ,Emirates Palace ,"The Chedi Al Bait, Sharjah "
+141,Sharjah,United Arab Emirates,Sheraton Sharjah Beach Resort & Spa ,Sheraton Sharjah Beach Resort & Spa ,W Taipei 
+142,Taipei,Taiwan,W Taipei ,"Mandarin Oriental, Taipei ",Grand HiLai Hotel 
+143,Kaohsiung,Taiwan,Grand Hi-Lai Hotel Kaohsiung ,Grand Hi-Lai Hotel ,The Lin Hotel 
+144,Taichung,Taiwan,The Lin Hotel Taichung ,The Lin Hotel ,11 Mirrors Design Hotel 
+145,Kiev,Ukraine,InterContinental Kiev ,InterContinental Kyiv ,Premier Palace Hotel Kyiv 
+146,Lviv,Ukraine,Leopolis Hotel Lviv ,Grand Hotel Lviv Luxury & Spa ,Leopolis Hotel Lviv 
+147,Odessa,Ukraine,Hotel Bristol Odessa ,Hotel Bristol Odessa ,Hotel Bristol Odessa 
+148,Tehran,Iran,Espinas Palace Hotel Tehran ,Espinas Palace Hotel ,Espinas Palace Hotel Tehran 
+149,Isfahan,Iran,Abbasi Hotel Isfahan ,Abbasi Hotel ,Abbasi Hotel Isfahan 
+150,Shiraz,Iran,Zandiyeh Hotel Shiraz ,Shiraz Grand Hotel ,Shiraz Grand Hotel 
+151,Bucharest,Romania,InterContinental Bucharest ,Athénée Palace Hilton Bucharest ,Athénée Palace Hilton Bucharest 
+152,Cluj-Napoca,Romania,Grand Hotel Italia Cluj-Napoca ,Grand Hotel Italia ,Grand Hotel Italia ClujNapoca 
+153,Timisoara,Romania,Timisoara Hotel ,Hotel Timisoara ,Hotel Timisoara 
+154,Sofia,Bulgaria,Sense Hotel Sofia ,Sense Hotel Sofia ,Sense Hotel Sofia 
+155,Plovdiv,Bulgaria,Ramada Plovdiv Trimontium ,Residence City Garden ,Residence City Garden Plovdiv 
+156,Varna,Bulgaria,Graffit Gallery Hotel Varna ,Varna Family Hotel ,SwissBelhotel Varna 
+157,Bratislava,Slovakia,Grand Hotel River Park Bratislava ,Bratislava Family Suites ,Grand Hotel River Park Bratislava 
+158,Kosice,Slovakia,Hotel Yasmin Kosice ,Kosice Family Resort ,DoubleTree by Hilton Hotel Kosice 
+159,Banska Bystrica,Slovakia,Hotel Arcade Banska Bystrica ,Banska Bystrica Family Lodge ,Hotel Grand Matej Banska Bystrica 
+160,Hong Kong,Hong Kong,The Peninsula Hong Kong ,Hong Kong Family Plaza ,The Peninsula Hong Kong 
+161,Kowloon,Hong Kong,Cordis Hong Kong at Langham Place Kowloon ,Kowloon Family Retreat ,"Cordis, Hong Kong "
+162,New Territories,Hong Kong,Auberge Discovery Bay New Territories ,New Territories Family Hotel ,Royal Plaza Hotel 
+163,Belgrade,Serbia,"Metropol Palace, a Luxury Collection Hotel Belgrade ",Belgrade Family Suites ,Hyatt Regency Belgrade 
+164,Novi Sad,Serbia,Prezident Hotel Novi Sad ,Novi Sad Family Resort ,Prezident Hotel Novi Sad 
+165,Nis,Serbia,Art Loft Hotel Nis ,Nis Family Lodge ,Art Loisirs Hotel Nis 
+166,Vilnius,Lithuania,Hotel PACAI Vilnius ,Vilnius Family Plaza ,Hotel PACAI Vilnius 
+167,Kaunas,Lithuania,Kaunas City Hotel ,Kaunas Family Retreat ,Daugirdas Hotel Kaunas 
+168,Klaipeda,Lithuania,National Hotel Klaipeda ,Klaipeda Family Hotel ,National Hotel Klaipeda 
+169,Riga,Latvia,Grand Hotel Kempinski Riga ,Riga Family Suites ,Grand Hotel Kempinski Riga 
+170,Daugavpils,Latvia,Park Hotel Latgola Daugavpils ,Daugavpils Family Resort ,Hotel Rebir 
+171,Liepaja,Latvia,Promenade Hotel Liepaja ,Liepaja Family Lodge ,Promenade Hotel 
+172,Tallinn,Estonia,Swissotel Tallinn ,Tallinn Family Plaza ,Swissôtel Tallinn 
+173,Tartu,Estonia,Hotel Antonius Tartu ,Tartu Family Retreat ,Hotel Lydia Tartu 
+174,Narva,Estonia,Narva Hotell ,Narva Family Hotel ,Narva Hotell 
+175,Ljubljana,Slovenia,InterContinental Ljubljana ,Ljubljana Family Suites ,InterContinental Ljubljana 
+176,Maribor,Slovenia,Hotel City Maribor ,Maribor Family Resort ,Hotel City Maribor 
+177,Koper,Slovenia,Hotel Koper ,Koper Family Lodge ,Hotel Koper 
+178,Minsk,Belarus,Hotel Belarus Minsk ,Minsk Family Plaza ,Renaissance Minsk Hotel 
+179,Brest,Belarus,Hermitage Hotel Brest ,Brest Family Retreat ,Hermitage Hotel & Spa Brest 
+180,Gomel,Belarus,Chisto Hotel Gomel ,Gomel Family Hotel ,Chisto Hotel Gomel 
+181,Luxembourg City,Luxembourg,Sofitel Luxembourg Le Grand Ducal ,Luxembourg City Family Suites ,Le Royal Hotels & Resorts Luxembourg 
+182,Esch-sur-Alzette,Luxembourg,Hotel Acacia Esch-sur-Alzette ,Esch-sur-Alzette Family Resort ,Sofitel Luxembourg Le Grand Ducal 
+183,Differdange,Luxembourg, Hotel Gulliver Differdange ,Differdange Family Lodge ,Melia Luxembourg 
+184,Kuwait City,Kuwait,JW Marriott Hotel Kuwait City ,Kuwait City Family Plaza ,JW Marriott Hotel Kuwait City 
+185,Hawalli,Kuwait,Mövenpick Hotel & Resort Al Bida'a Kuwait Hawalli ,Hawalli Family Retreat ,Symphony Style Hotel Kuwait 
+186,Al Ahmadi,Kuwait,Hilton Kuwait Resort Al Ahmadi ,Al Ahmadi Family Hotel ,Movenpick Hotel & Resort Al Bida'a Kuwait 
+187,Doha,Qatar,The Ritz-Carlton Doha ,Doha Family Suites ,Four Seasons Hotel Doha 
+188,Al Rayyan,Qatar,Mall of Qatar Al Rayyan ,Al Rayyan Family Resort ,"AlRayyan Hotel Doha, Curio Collection by Hilton "
+189,Al Wakrah,Qatar,Al Najada Doha Hotel by Tivoli Al Wakrah ,Al Wakrah Family Lodge ,Souq Al Wakra Hotel Qatar by Tivoli 
+190,Muscat,Oman,Kempinski Hotel Muscat ,Muscat Family Plaza ,Chedi Muscat 
+191,Seeb,Oman,Mysk Al Mouj by Shaza Seeb ,Seeb Family Retreat ,"Al Bustan Palace, a RitzCarlton Hotel "
+192,Salalah,Oman,Salalah Rotana Resort Salalah ,Salalah Family Hotel ,Salalah Rotana Resort 
+193,Manama,Bahrain,"The Ritz-Carlton, Bahrain Manama ",Manama Family Suites ,"The RitzCarlton, Bahrain "
+194,Riffa,Bahrain,"The Ritz-Carlton, Bahrain Riffa ",Riffa Family Resort ,The Grove Hotel & Conference Centre 
+195,Muharraq,Bahrain,The Grove Hotel & Conference Centre Muharraq , Muharraq Family Lodge ,The Merchant House 
+196,Nicosia,Cyprus,Hilton Cyprus Nicosia ,Nicosia Family Plaza ,Hilton Malta 
+197,Limassol,Cyprus,"Parklane, a Luxury Collection Resort & Spa Limassol ",Limassol Family Retreat ,Hotel Fortina 
+198,Larnaca,Cyprus,"Radisson Blu Hotel, Larnaca Larnaca ",Larnaca Family Hotel ,"The Westin Dragonara Resort, Malta "
+199,Valletta,Malta,Grand Hotel Excelsior Valletta ,Valletta Family Suites ,Ion City Hotel Reykjavik 
+200,Sliema,Malta,The Palace Sliema ,Sliema Family Resort ,Icelandair Hotel Reykjavik Natura 
+201,St. Julian's,Malta,Hilton Malta St. Julian's ,St. Julian's Family Lodge ,Hotel Viking Reykjavik 
+202,Reykjavik,Iceland,Canopy by Hilton Reykjavik City Centre ,Reykjavik Family Plaza ,Reykjavik Family Plaza 
+203,Kópavogur,Iceland,Hilton Reykjavik Nordica Kópavogur ,Kópavogur Family Retreat ,Kópavogur Family Retreat 
+204,Hafnarfjörður,Iceland,Harbourfront Guesthouse Hafnarfjörður ,Hafnarfjörður Family Hotel ,Hafnarfjörður Family Hotel 
+205,Podgorica,Montenegro,Hilton Podgorica Crna Gora Podgorica ,Podgorica Family Suites ,Hilton Podgorica Crna Gora 
+206,Niksic,Montenegro,Hotel Onogost Nikšić ,Niksic Family Resort ,Hotel Onogost Niksic 
+207,Herceg Novi,Montenegro,Palmon Bay Hotel & Spa Igalo Herceg Novi ,Herceg Novi Family Lodge ,Hotel Perla Herceg Novi 
+208,Beirut,Lebanon,Four Seasons Hotel Beirut ,Beirut Family Plaza ,Le Gray Beirut 
+209,Tripoli,Lebanon,Le Gray Beirut ,Tripoli Family Retreat ,Le Royal Hotel Beirut 
+210,Sidon,Lebanon,Grand Kadri Hotel Sidon ,Sidon Family Hotel ,Warwick Palm Beach Hotel 

@@ -1,0 +1,211 @@
+City_ID,City,Cultural_place,Historical_place,Adventure_place,City_place,Relax_place,Extreme_place
+1,Paris,Eiffel Tower,The Louvre Museum,Eiffel Tower Climbing Adventure ,Champs-Élysées,Luxembourg Gardens,Paris Catacombs
+2,Marseille,Notre-Dame Cathedral,Château d'If,Calanques National Park Exploration ,La Canebière,Calanque de Sugiton,Parc National des Calanques
+3,Lyon,Basilique Notre-Dame de la Garde,Hôtel de Ville,Lyon's Underground Catacombs Expedition ,Rue de la République,Parc de la Tête d'Or,Fourvière Hill
+4,New York City,The Metropolitan Museum of Art,Ellis Island,Urban Jungle Safari ,Fifth Avenue,Central Park,The Edge
+5,Los Angeles,Getty Center,Griffith Observatory,Hiking in Griffith Park,Hollywood Boulevard,Santa Monica Beach,Angeles National Forest
+6,Las Vegas,The Strip (Las Vegas Boulevard),Hoover Dam,Desert ATV Adventure ,Las Vegas Boulevard (The Strip),Bellagio Conservatory & Botanical Gardens,SlotZilla Zip Line
+7,Madrid,Prado Museum,Royal Palace of Madrid,Rock Climbing in Madrid's Mountains ,Gran Vía,Retiro Park,Parque del Oeste
+8,Barcelona,Sagrada Familia,Gothic Quarter,Paragliding over Barcelona's Coastline ,La Rambla,Park Güell,Montjuïc Mountain
+9,Seville,Eiffel Tower,Alcázar of Seville,Kayaking in Guadalquivir River,Calle Sierpes,Alcázar of Seville,Andalusian countryside
+10,Rome,Colosseum,Roman Forum,Colosseum Night Tour and Ghost Hunt ,Via del Corso,Villa Borghese Gardens,Colosseum Underground
+11,Milan,"Leonardo da Vinci's ""The Last Supper""",Sforza Castle,Milan's High Altitude Skydiving Experience ,Via Montenapoleone,Sempione Park,San Siro Stadium Tour
+12,Venice,St. Mark's Basilica,Doge's Palace,Venice's Secret Passage Exploration ,Grand Canal,Giardini della Biennale,Gondola Ride on the Grand Canal
+13,Beijing,Forbidden City,Great Wall of China,Great Wall Trekking Adventure ,Wangfujing Street,Summer Palace,The Great Wall of China 
+14,Shanghai,The Bund,The Bund,Cycling through Shanghai's Ancient Water Towns ,Nanjing Road,The Bund,Shanghai Tower Skywalk
+15,Guangzhou,Canton Tower,Chen Clan Ancestral Hall,Cliff Diving in Guangzhou's Baiyun Mountain ,Beijing Road,Yu Garden,Baiyun Mountain
+16,Mexico City,National Museum of Anthropology,Templo Mayor,"Teotihuacan Hot Air Balloon Ride, Mexico City ",Paseo de la Reforma,Chapultepec Park,Lucha Libre Wrestling Match
+17,Cancun,Chichen Itza,El Rey Ruins,Snorkeling in Cancun's Underwater Museum ,Avenida Tulum,Playa Delfines,Scuba Diving in the Underwater Museum of Art
+18,Playa del Carmen,Xcaret Park,Coba Archaeological Site,Xplor Park,Quinta Avenida,Xcaret Park,Cenote diving in Dos Ojos
+19,London,British Museum,Tower of London,Thames Rocket Speed Boat Experience,Oxford Street,Hyde Park,The Slide at ArcelorMittal Orbit
+20,Manchester,The John Rylands Library,Manchester Town Hall,Chill Factore Indoor Ski Slope,Deansgate,Heaton Park,Manchester Climbing Centre
+21,Edinburgh,Edinburgh Castle,Edinburgh Castle,Arthur's Seat,Royal Mile,Holyrood Park,Edinburgh International Climbing Arena
+22,Bangkok,Grand Palace,Grand Palace,Khao Yai National Park,Khao San Road,Lumpini Park,Bangkok Fight Lab (Martial Arts)
+23,Phuket,Phang Nga Bay,Wat Chalong,Phi Phi Islands,Bangla Road,Patong Beach,Flying Hanuman (Ziplining)
+24,Chiang Mai,Doi Suthep,Wat Phra That Doi Suthep,Flight of the Gibbon Zip Line Adventure,Tha Pae Walking Street,Huay Tung Tao Lake,Flight of the Gibbon (Ziplining)
+25,Berlin,Brandenburg Gate,Berlin Wall Memorial,Teufelsberg Abandoned Spy Station,Unter den Linden,Tiergarten,Teufelsberg (Urban Exploration)
+26,Munich,Neuschwanstein Castle,Nymphenburg Palace,Englischer Garten,Maximilianstrasse,English Garden,Olympic Park Munich (Bungee Jumping)
+27,Hamburg,Miniatur Wunderland,Speicherstadt,Miniatur Wunderland,Reeperbahn,Planten un Blomen,Hamburg Wittenberge (Kitesurfing)
+28,Tokyo,Tokyo National Museum,Tokyo Imperial Palace,Mount Fuji,Takeshita Street,Shinjuku Gyoen National Garden,Tokyo Dome City Attractions (Roller Coasters)
+29,Kyoto,Kinkaku-ji (Golden Pavilion),Kinkaku-ji (Golden Pavilion),Fushimi Inari Shrine,Shijo Street,Arashiyama Bamboo Grove,Kyoto International Manga Museum (for intense manga reading!)
+30,Osaka,Osaka Castle,Osaka Castle,Universal Studios Japan,Dotonbori,Osaka Castle Park,Tempozan Ferris Wheel (for heights and views)
+31,Toronto,Royal Ontario Museum,Casa Loma,CN Tower EdgeWalk,Yonge Street,High Park,CN Tower EdgeWalk (Edge Walking)
+32,Vancouver,Museum of Anthropology at UBC,Gastown,Capilano Suspension Bridge Park,Robson Street,Stanley Park,Capilano Suspension Bridge Park (for adrenaline-pumping activities)
+33,Montreal,Montreal Museum of Fine Arts,Old Montreal,La Ronde Amusement Park,Saint Catherine Street,Mount Royal Park,Montreal Climbing Stadium
+34,Sydney,Sydney Opera House,Sydney Harbour Bridge,Sydney Harbour Bridge Climb,George Street,Royal Botanic Garden,Sydney Skywalk (Walking on the exterior of the Sydney Tower)
+35,Melbourne,National Gallery of Victoria,Royal Exhibition Building,Great Ocean Road,Bourke Street Mall,Royal Botanic Gardens Victoria,Melbourne Cable Park (Wakeboarding)
+36,Brisbane,Queensland Gallery of Modern Art,Brisbane City Hall,Tangalooma Island Resort,Queen Street Mall,South Bank Parklands,Riverlife Adventure Centre (Abseiling and Climbing)
+37,Athens,Acropolis Museum,Acropolis of Athens,Mount Lycabettus,Ermou Street,National Garden of Athens,Mount Olympus (Hiking and Climbing)
+38,Thessaloniki,White Tower of Thessaloniki,White Tower of Thessaloniki,White Tower of Thessaloniki,Aristotelous Square,Waterfront of Thessaloniki,Mount Olympos (Rock Climbing)
+39,Heraklion,Palace of Knossos,Knossos Palace,Knossos Archaeological Site,25th August Street,Koules Fortress,Elounda Peninsula (Scuba Diving)
+40,New Delhi,Qutub Minar,Red Fort,India Gate,Chandni Chowk,Lotus Temple,Agrasen ki Baoli
+41,Mumbai,Chhatrapati Shivaji Maharaj Vastu Sangrahalaya,Gateway of India,Elephanta Caves,Marine Drive,Marine Drive,Kanheri Caves
+42,Jaipur,Amer Fort,Hawa Mahal,Amber Fort,Johari Bazaar,Jal Mahal,Nahargarh Fort
+43,Rio de Janeiro,Christ the Redeemer,Christ the Redeemer,Sugarloaf Mountain,Avenida Atlântica,Copacabana Beach,Hang Gliding in Tijuca Forest
+44,Sao Paulo,São Paulo Museum of Art,Theatro Municipal,Ibirapuera Park,Avenida Paulista,Ibirapuera Park,Hang Gliding in Pedra Bonita
+45,Salvador,Pelourinho,Pelourinho,Pelourinho,Pelourinho,Porto da Barra Beach,Paragliding in Salvador
+46,Amsterdam,Rijksmuseum,Anne Frank House,A'DAM Lookout,Damrak,Vondelpark,Anne Frank House
+47,Rotterdam,Museum Boijmans Van Beuningen,Euromast,Euromast Tower,Witte de Withstraat,Rotterdam Centraal Station,Rotterdam Zipline
+48,The Hague,Mauritshuis,Binnenhof,Madurodam,Lange Voorhout,Scheveningen Beach,Madurodam
+49,Seoul,Gyeongbokgung Palace,Gyeongbokgung Palace,Bukhansan National Park,Myeongdong,Namsan Park,N Seoul Tower
+50,Busan,Gamcheon Culture Village,Beomeosa Temple,Haeundae Beach,Gwangbok-ro,Haeundae Beach,Busan International Circuit
+51,Incheon,Songdo International City,Incheon Landing Operation Memorial Hall,Incheon Grand Park,Chinatown,Songdo Central Park,Incheon Bridge
+52,Moscow,Kremlin,Red Square,Red Square,Tverskaya Street,Gorky Park,Moscow International Business Center
+53,St. Petersburg,State Hermitage Museum,Peter and Paul Fortress,The Hermitage Museum,Nevsky Prospect,Peter and Paul Fortress,The Hermitage Museum
+54,Sochi,Sochi Art Museum,Stalin's Dacha,Sochi Olympic Park,Kurortny Prospekt,Sochi Arboretum,Rosa Khutor Ski Resort
+55,Buenos Aires,Teatro Colon,Recoleta Cemetery,Caminito Street Museum,Avenida 9 de Julio,Puerto Madero,La Boca Stadium Tour
+56,Cordoba,Manzana Jesuitica,Mosque–Cathedral of Córdoba,Paseo del Buen Pastor,Avenida Colón,Parque Sarmiento,Estadio Mario Alberto Kempes
+57,Rosario,National Flag Memorial,National Flag Memorial,National Flag Memorial,Peatonal Córdoba,Parque Urquiza,Estadio Marcelo Bielsa
+58,Lisbon,Jerónimos Monastery,Belém Tower,Belém Tower,Rua Augusta,Belém Tower,Parque das Nações
+59,Porto,Livraria Lello,Porto Cathedral,Livraria Lello,Rua Santa Catarina,Douro River,Parque da Cidade
+60,Faro,Faro Archaeological Museum,Faro Cathedral,Ria Formosa Natural Park,Rua de Santo António,Faro Old Town,Algarve Jeep Safari
+61,Vienna,Schönbrunn Palace,Freud Museum,Prater Park,Mariahilfer Strasse,Schönbrunn Palace,Vienna Prater
+62,Salzburg,Hohensalzburg Fortress,Mozart's Wohnhaus,Hohensalzburg Fortress,Getreidegasse,Mirabell Gardens,Kitzsteinhorn Glacier
+63,Innsbruck,Ambras Castle,Innsbruck Cathedral,Nordkette Mountain Range,Maria-Theresien-Strasse,Nordkette Mountain,Alpine Coaster Imst
+64,Zurich,Kunsthaus Zurich,Grossmünster,Lake Zurich,Bahnhofstrasse,Lake Zurich,Paragliding in Interlaken
+65,Geneva,International Red Cross and Red Crescent Museum,St. Pierre Cathedral,Lake Geneva,Rue du Rhône,Lake Geneva,Jet d'Eau
+66,Basel,Kunstmuseum Basel,Basel Minster,Kunstmuseum Basel,Freie Strasse,Basel Minster,Paragliding in Lauterbrunnen Valley
+67,Stockholm,Vasa Museum,Stockholm Palace,Skansen Open-Air Museum,Drottninggatan,Djurgården,Bouldering in Bolderia
+68,Gothenburg,Gothenburg Museum of Art,Skansen Kronan,Liseberg Amusement Park,Avenyn,Liseberg Amusement Park,Kungsportsavenyn Street Circuit
+69,Malmo,Malmöhus Castle,Malmö Castle,Turning Torso,Södergatan,Ribersborgsstranden,Ribersborg Kallbadhus
+70,Cairo,Egyptian Museum,The Pyramids of Giza,Giza Pyramids,Sharia Al-Muizz,Cairo Tower,Great Pyramid of Giza
+71,Luxor,Karnak Temple,Hatshepsut’s Mortuary Temple,Karnak Temple Complex,Sharia Al-Karnak,Luxor Temple,Valley of the Kings
+72,Sharm El Sheikh,Soho Square,Ras Muhammad National Park,Ras Mohammed National Park,Naama Bay,Naama Bay Beach,Ras Mohammed National Park
+73,Jakarta,National Museum of Indonesia,Jakarta History Museum,Monas National Monument,Jalan Thamrin,Taman Mini Indonesia Indah,Ancol Dreamland
+74,Bali,Ubud Palace,Taman Ayun Temple,Ubud Monkey Forest,Jalan Legian,Tegalalang Rice Terrace,Bali Swing
+75,Bandung,Gedung Sate,Gedung Sate,Tangkuban Perahu,Jalan Braga,Dago Pakar,Tangkuban Perahu
+76,Hanoi,Temple of Literature,Hoa Lo Prison,Hanoi Old Quarter,Hang Gai Street,Hoan Kiem Lake,Ha Long Bay
+77,Ho Chi Minh City,War Remnants Museum,Reunification Palace,Cu Chi Tunnels,Dong Khoi Street,Saigon Notre-Dame Basilica,Cu Chi Tunnels
+78,Da Nang,Museum of Cham Sculpture,Marble Mountains,My Khe Beach,Bach Dang Street,My Khe Beach,Marble Mountains
+79,Kuala Lumpur,Islamic Arts Museum Malaysia,Sultan Abdul Samad Building,Petronas Twin Towers,Jalan Bukit Bintang,KLCC Park,Genting Highlands
+80,Penang,Pinang Peranakan Mansion,Kek Lok Si Temple,Penang Hill,Lebuh Armenian,Penang Hill,Escape Adventureplay
+81,Langkawi,Langkawi Craft Complex,Langkawi Sky Bridge,Langkawi Sky Bridge,Pantai Cenang,Langkawi Sky Bridge,Sky Bridge
+82,Marrakech,Jardin Majorelle,Bahia Palace,Jardin Majorelle,Rue Bab Agnaou,Jardin Majorelle,Atlas Film Studios
+83,Casablanca,Hassan II Mosque,Old Medina,Hassan II Mosque,Boulevard d'Anfa,Hassan II Mosque,Rick's Café
+84,Fes,Fes el Bali (Medina of Fez),Bou Inania Madrasa,Medina of Fez,Talaa Kebira,Fes el Bali,Bou Inania Madrasa
+85,Brussels,Royal Museums of Fine Arts of Belgium,Grand Place,Atomium,Rue Neuve,Grand Place,Atomium
+86,Antwerp,Antwerp Museum aan de Stroom (MAS),Cathedral of Our Lady,Antwerp Zoo,Meir,Antwerp Central Station,Antwerp Zoo
+87,Ghent,Gravensteen (Castle of the Counts),Gravensteen Castle,Gravensteen Castle,Veldstraat,Gravensteen,Graslei and Korenlei
+88,Prague,Prague Castle,Charles Bridge,Prague Castle,Charles Bridge,Prague Castle,Prague Zoo
+89,Brno,Špilberk Castle,Špilberk Castle,Spilberk Castle,Masarykova Street,Spilberk Castle,Macocha Abyss
+90,Ostrava,Ostrava Museum of Art,Ostrava Castle,Landek Park Mining Museum,Stodolni Street,Ostrava Zoo,Dolní Vítkovice
+91,Manila,National Museum of the Philippines,Intramuros,Rizal Park,Taft Avenue,Rizal Park,Manila Ocean Park
+92,Cebu City,Magellan's Cross,Magellan's Cross,Basilica del Santo Niño,Colon Street,Magellan's Cross,Cebu Safari and Adventure Park
+93,Davao City,Philippine Eagle Center,Philippine Eagle Center,Eden Nature Park,Rizal Street,Eden Nature Park,Eden Nature Park
+94,Warsaw,"Royal Castle, Warsaw",Warsaw Uprising Museum,Warsaw Uprising Museum,Krakowskie Przedmieście,Warsaw Old Town,Warsaw Uprising Museum
+95,Krakow,Wawel Castle,Wawel Cathedral,Wawel Castle,Floriańska Street,Wawel Castle,Wieliczka Salt Mine
+96,Gdansk,European Solidarity Centre,Westerplatte,St Mary's Church,Długi Targ,Old Town Gdańsk,St. Mary's Church
+97,Copenhagen,Ny Carlsberg Glyptotek,Rosenborg Castle,Tivoli Gardens,Strøget,Tivoli Gardens,Tivoli Friheden
+98,Aarhus,ARoS Aarhus Art Museum,Aarhus Cathedral,ARoS Aarhus Art Museum,Jægergårdsgade,ARoS Aarhus Kunstmuseum,The Old Town Hall
+99,Odense,Hans Christian Andersen Museum,Egeskov Castle,Egeskov Castle,Vestergade,Odense Zoo,H.C. Andersen's House
+100,Oslo,Viking Ship Museum,Akershus Fortress,Viking Ship Museum,Karl Johans gate,Vigeland Sculpture Park,Holmenkollbakken
+101,Bergen,Bryggen Hanseatic Wharf,Bryggen,Bryggen,Bryggen,Bryggen,Fløibanen
+102,Stavanger,Norwegian Petroleum Museum,Stavanger Cathedral,Preikestolen (Pulpit Rock),Øvre Holmegate,Stavanger Cathedral,Preikestolen
+103,Johannesburg,Apartheid Museum,Apartheid Museum,Table Mountain National Park,Vilakazi Street,Johannesburg Zoo,Lion and Safari Park
+104,Cape Town,Robben Island,Robben Island,Robben Island,Long Street,Table Mountain,Cape Point
+105,Durban,KwaMuhle Museum,The Old Fort,Miraflores Boardwalk,Florida Road,uShaka Marine World,Moses Mabhida Stadium
+106,Lima,Larco Museum,Huaca Pucllana,Paragliding over Miraflores,Jirón de la Unión,Miraflores,Paracas National Reserve
+107,Cusco,Sacsayhuamán,Sacsayhuamán,Rainbow Mountain,Avenida del Sol,Saksaywaman,Rainbow Mountain
+108,Arequipa,Santa Catalina Monastery,Santa Catalina Monastery,Colca Canyon,Calle Mercaderes,Colca Canyon,Colca Canyon Trek
+109,Budapest,Hungarian Parliament Building,Fisherman's Bastion,Caving under Buda Hills,Andrássy Avenue,Budapest Castle Hill,Buda Hill
+110,Debrecen,Déri Museum,Great Reformed Church,Hortobágy National Park,Piac utca,City Park,Debrecen Thermal Bath
+111,Szeged,Szeged Synagogue,Votive Church,Szeged Zoo and Botanical Garden,Kárász Street,Szeged Zoo,Szeged Adventure Park
+112,Helsinki,Ateneum Art Museum,Suomenlinna,Nuuksio National Park,Aleksanterinkatu,Helsinki Central Park,Serena Water Park
+113,Tampere,Vapriikki Museum Centre,Pyynikki Observation Tower,Pyynikki Observation Tower,Hämeenkatu,Pyynikki Park,Särkänniemi Adventure Park
+114,Espoo,EMMA – Espoo Museum of Modern Art,Espoo Cathedral,Nuuksio National Park,Espoon keskus,Nuuksio National Park,Nuuksio National Park
+115,Dublin,Trinity College Library,Dublin Castle,Wicklow Mountains National Park,Grafton Street,Phoenix Park,Hellfire Club
+116,Cork,Cork City Gaol,Elizabeth Fort,Old Head of Kinsale Cliff Walk,Patrick Street,Fitzgerald Park,Cork Harbour
+117,Galway,Galway City Museum,Galway City Museum,Connemara National Park,Shop Street,Salthill Promenade,Connemara National Park
+118,Singapore City,National Gallery Singapore,Fort Canning,Sentosa Skyline Luge,Orchard Road,Singapore Botanic Gardens,Mega Adventure Park
+119,Sentosa,Universal Studios Singapore,Fort Siloso,Universal Studios Singapore,Sentosa Gateway,Palawan Beach,Skyline Luge Sentosa
+120,Marina Bay,Marina Bay Sands,National Gallery Singapore,Marina Bay Sands Skypark,Marina Boulevard,Gardens by the Bay,Marina Bay Sands Skypark
+121,Jerusalem,Israel Museum,Western Wall,Mount of Olives,Ben Yehuda Street,Jerusalem Botanical Gardens,Jerusalem Mountains
+122,Tel Aviv,Tel Aviv Museum of Art,Tel Aviv Museum of Art,Neve Tzedek Quarter,Rothschild Boulevard,Tel Aviv Beaches,Tel Aviv Surf Club
+123,Haifa,Baha'i Gardens,Bahá'í World Centre,Bahá'í Gardens,Allenby Street,Carmel Beach,Mount Carmel National Park
+124,Zagreb,Museum of Broken Relationships,Zagreb Cathedral,Medvednica Mountain,Ilica Street,Jarun Lake,Medvednica Mountain
+125,Split,Diocletian's Palace,Diocletian's Palace,Diocletian's Palace,Diocletian's Palace,Marjan Forest Park,Marjan Hill
+126,Dubrovnik,Dubrovnik City Walls,Dubrovnik City Walls,Dubrovnik City Walls,Stradun,Lokrum Island,Dubrovnik City Walls
+127,Auckland,Auckland War Memorial Museum,Auckland War Memorial Museum,Sky Tower SkyJump,Queen Street,Cornwall Park,Sky Tower
+128,Wellington,Museum of New Zealand Te Papa Tongarewa,Solace in the Wind,Tongariro Alpine Crossing,Cuba Street,Wellington Botanic Garden,Southern Walkway
+129,Christchurch,Canterbury Museum,Canterbury Museum,Arthur's Pass National Park,Oxford Terrace,Hagley Park,Port Hills
+130,Bogota,Gold Museum,Gold Museum,Monserrate Hill,Carrera Séptima,Monserrate Hill,Monserrate Hill
+131,Medellin,Plaza Botero,Monumento a la Raza,Parque Arvi,Avenida El Poblado,Arvi Park,Arvi Park
+132,Cartagena,Castillo San Felipe de Barajas,Castillo San Felipe de Barajas,Rosario Islands,Calle del Arsenal,Bocagrande Beach,Cartagena Jet Ski
+133,Santiago,Chilean National Museum of Fine Arts,La Moneda Palace,Valle Nevado Ski Resort,Avenida Libertador General Bernardo O'Higgins,Metropolitan Park,Andes Mountains
+134,Valparaiso,La Sebastiana,La Sebastiana,Ascensor Artilleria,Avenida Pedro Montt,Cerro Alegre,Cerro Valparaiso
+135,Vina del Mar,Castillo Wulff,Quinta Vergara,Renaca Beach,Avenida San Martín,Reñaca Beach,Cerro Castillo
+136,Riyadh,National Museum of Saudi Arabia,Masmak Fortress,Edge of the World,King Fahd Road,King Abdullah Park,Red Sand Dunes
+137,Jeddah,Al-Balad,Al-Balad,Red Sea Diving,Tahlia Street,Jeddah Corniche,Jeddah Cable Car
+138,Dammam,King Abdulaziz Center for World Culture,Tarout Castle,Half Moon Bay,King Abdulaziz Road,Half Moon Bay,King Fahd Park
+139,Dubai,Burj Khalifa,Al Fahidi Fort,Ski Dubai,Sheikh Zayed Road,Jumeirah Beach,Dubai Desert Safari
+140,Abu Dhabi,Louvre Abu Dhabi,Qasr Al Hosn,Ferrari World,Corniche Road,Corniche Beach,Ferrari World
+141,Sharjah,Sharjah Art Museum,Sharjah Fort,Al Qasba,Al Wahda Street,Al Majaz Waterfront,Al Montazah Parks
+142,Taipei,National Palace Museum,National Palace Museum,Elephant Mountain,Xinyi Road,Daan Forest Park,Taipei 101 Observatory
+143,Kaohsiung,Pier-2 Art Center,Fo Guang Shan Buddha Museum,Lotus Pond,Jhongshan Road,Lotus Pond,E-Da Theme Park
+144,Taichung,National Taiwan Museum of Fine Arts,Lin Family Mansion and Garden,Rainbow Village,Zhonghua Road,Taichung Park,Taroko National Park
+145,Kiev,Kiev Pechersk Lavra,Kiev Pechersk Lavra,Kyiv Pechersk Lavra,Khreshchatyk Street,Mariinsky Park,Kiev Sea
+146,Lviv,Lviv National Museum,Lviv High Castle,Lviv High Castle,Rynok Square,Stryiskyi Park,Carpathian Mountains
+147,Odessa,Odessa Museum of Western and Eastern Art,Potemkin Stairs,Potemkin Stairs,Deribasovskaya Street,Lanzheron Beach,Arcadia Beach
+148,Tehran,Golestan Palace,Golestan Palace,Azadi Tower,Valiasr Street,Tehran Birds Garden,Tochal Complex
+149,Isfahan,Naqsh-e Jahan Square,Naqsh-e Jahan Square,Naqsh-e Jahan Square,Chaharbagh Avenue,Naqsh-e Jahan Square,Varzaneh Desert
+150,Shiraz,Persepolis,Shah Cheragh,Persepolis,Karim Khan Zand Boulevard,Eram Garden,Vakil Abad Zoo
+151,Bucharest,Palace of the Parliament,Palace of the Parliament,Palace of the Parliament,Calea Victoriei,Herastrau Park,Therme Bucharest
+152,Cluj-Napoca,Ethnographic Museum of Transylvania,Cluj-Napoca Central Park,Turda Salt Mine,Eroilor Avenue,Central Park,Cheile Turzii
+153,Timisoara,Timișoara Orthodox Cathedral,Timisoara Orthodox Cathedral,Victory Square,Victoriei Square,Central Park,Recas Wine Cellar
+154,Sofia,National Palace of Culture,Boyana Church,Vitosha Mountain,Vitosha Boulevard,Borisova Gradina,Vitosha Mountain
+155,Plovdiv,Plovdiv Roman Theatre,Ancient Theatre of Philippopolis,Roman Theatre,Main Street,Tsarevets Fortress,Rhodope Mountains
+156,Varna,Varna Archaeological Museum,Varna Archaeological Museum,Aladzha Monastery,Graf Ignatiev Street,Sea Garden,Varna Karting Track
+157,Bratislava,Bratislava Castle,Bratislava Castle,Devin Castle,Obchodna Street,Bratislava Castle,Ondrej Nepela Arena
+158,Kosice,East Slovak Museum,St. Elisabeth Cathedral,St. Elisabeth Cathedral,Hlavna Street,Kosice Zoo,Kosice Steel Arena
+159,Banska Bystrica,Slovak National Uprising Museum,Slovak National Uprising Museum,Slovak National Uprising Memorial,SNP Square,Slovak National Uprising Square,Dobsinska Ice Cave
+160,Hong Kong,Hong Kong Museum of History,Tian Tan Buddha,Victoria Peak,Nathan Road,Victoria Harbour,Victoria Peak
+161,Kowloon,Hong Kong Science Museum,Wong Tai Sin Temple,Wong Tai Sin Temple,Nathan Road,Kowloon Park,A Symphony of Lights
+162,New Territories,Hong Kong Heritage Museum,Che Kung Temple,Pat Sin Leng Nature Trail,Tuen Mun Road,Hong Kong Wetland Park,Dragon's Back Trail
+163,Belgrade,Belgrade Fortress,Belgrade Fortress,Belgrade Fortress,Knez Mihailova Street,Ada Ciganlija,Ada Ciganlija Adventure Park
+164,Novi Sad,Petrovaradin Fortress,Petrovaradin Fortress,Petrovaradin Fortress,Dunavska Street,Petrovaradin Fortress,Petrovaradin Fortress Exit Festival
+165,Nis,Niš Fortress,Niš Fortress,Skull Tower,Obrenoviceva Street,Skull Tower,Niš Fortress Climbing
+166,Vilnius,Vilnius University,Gediminas' Tower,Trakai Island Castle,Gediminas Avenue,Mediana,Kernave Archaeological Site
+167,Kaunas,Kaunas Castle,Kaunas Castle,Pazaislis Monastery,Laisves Avenue,Belmontas Park,Baltic Sea Adventure Park
+168,Klaipeda,Klaipėda Castle,Klaipėda Castle,Curonian Spit,Theatre Square,Smiltyne Beach,Palanga Adventure Park
+169,Riga,Latvian National Museum of Art,Riga Castle,Riga Central Market,Alberta Street,Riga Central Market,Sigulda Bobsleigh Track
+170,Daugavpils,Daugavpils Fortress,Pumpura Park,Daugavpils Fortress,Rigas Street,Daugava Riverside Park,Daugavpils Fortress
+171,Liepaja,Liepāja Museum,Karosta Prison,Karosta Prison,Zivju Street,Liepaja Beach,Liepaja Seaside Park
+172,Tallinn,Kadriorg Palace,Tallinn Old Town,Lahemaa National Park,Viru Street,Kadriorg Park,Tallinn TV Tower
+173,Tartu,Tartu University Museum,University of Tartu,Tartu Observatory,Ülikooli Street,Toome Hill,Tartu Adventure Park
+174,Narva,Narva Castle,Narva Castle,Narva Castle,Kreenholmi Street,Narva River Promenade,Narva Castle
+175,Ljubljana,Ljubljana Castle,Ljubljana Castle,Ljubljana Castle,Slovenska cesta,Tivoli Park,Ljubljana Castle
+176,Maribor,Maribor Regional Museum,Maribor Castle,Maribor Pohorje,Glavni trg,Maribor City Park,Maribor Pohorje Bike Park
+177,Koper,Koper Regional Museum,Koper Cathedral,Koper Cathedral,Titov Trg,Koper City Beach,Koper Climbing Wall
+178,Minsk,National Art Museum of Belarus,National Opera and Ballet Theatre of Belarus,Belarusian Great Patriotic War Museum,Independence Avenue,Gorky Park,Minsk Sea
+179,Brest,Brest Fortress,Brest Fortress,Brest Fortress,Sovietskaya Street,Brest Fortress,Brest Hero Fortress
+180,Gomel,Gomel Palace,Gomel Palace & Park Ensemble,Gomel Palace & Park Ensemble,Sovetskaya Street,Gomel Central Park,Gomel Zoo
+181,Luxembourg City,National Museum of History and Art,Luxembourg City History Museum,Bock Casemates,Grand Rue,Parc Central,D'Coque Sports and Culture Centre
+182,Esch-sur-Alzette,Belval Plaza,Blast Furnace Belval,Belval Blast Furnace,Avenue de la Libération,Parc Emile Mayrisch,Parc Merveilleux
+183,Differdange,Differdange Castle,Lasauvage Industrial Railway,Parc Le’h Adventures,Avenue de la Liberté,Parc du Galgenberg,Parc Fond-de-Gras
+184,Kuwait City,Tareq Rajab Museum,Kuwait Towers,Kuwait Towers,Arabian Gulf Street,Kuwait Towers,Failaka Island
+185,Hawalli,The Scientific Center,Al Shaheed Park,Marina Crescent,Tunis Street,Marina Waves,Hawalli Park
+186,Al Ahmadi,Al Kout Mall,Ahmadi Music Group,Al Kout Mall,Ahmad Al Jaber Street,Al Fintas Park,Al Kout Mall
+187,Doha,Museum of Islamic Art,Oxygen Park,Souq Waqif,Al Corniche Street,Doha Corniche,Aqua Park Qatar
+188,Al Rayyan,Al Shaqab Equestrian Center,Al Rayyan Stadium,Aspire Park,Al Rayyan Road,Al Rayyan Park,Aspire Park
+189,Al Wakrah,Al Wakrah Museum,Al Wakrah Stadium,Al Wakrah Souq,Al Wakrah Main Road,Al Wakrah Beach,Al Wakrah Sports Club
+190,Muscat,Sultan's Armed Forces Museum,Sultan Qaboos Grand Mosque,Muttrah Corniche,Muttrah Corniche,Qurum Natural Park,Wadi Shab
+191,Seeb,Bait Al Zubair Museum,Seeb Souq,Seeb Beach,Muscat Expressway,Al Hail Corniche,Jebel Akhdar
+192,Salalah,Museum of the Frankincense Land,Al-Baleed Archaeological Park,Al Mughsail Beach,Sultan Qaboos Street,Al Mughsail Beach,Wadi Darbat
+193,Manama,Bahrain National Museum,Bahrain National Museum,Bahrain National Museum,King Faisal Highway,Prince Khalifa Bin Salman Park,Adhari Park
+194,Riffa,Riffa Fort,Riffa Fort,Royal Golf Club,Avenue 96,Riffa Fort,Tree of Life
+195,Muharraq,Muharraq Souq,Arad Fort,Arad Fort,Sheikh Isa Avenue,Arad Fort,Bahrain International Circuit
+196,Nicosia,Cyprus Museum,Cyprus Museum,Selimiye Mosque,Ledra Street,Cyprus Museum,Nicosia Race Club
+197,Limassol,Limassol Archaeological Museum,Limassol Castle,Limassol Castle,Anexartisias Street,Molos Park,Limassol Paintball
+198,Larnaca,Larnaca Salt Lake,Hala Sultan Tekke,Larnaca Salt Lake,Zenonos Kitieos Street,Finikoudes Beach,Mackenzie Beach
+199,Valletta,St. John's Co-Cathedral,St. John's Co-Cathedral,St. John's Co-Cathedral,Republic Street,Upper Barrakka Gardens,Fort St. Elmo
+200,Sliema,The Point Shopping Mall,Sliema Promenade,Fort Tigné,Tower Road,Sliema Promenade,Sliema Dive Centre
+201,St. Julian's,Spinola Bay,Spinola Bay,Spinola Bay,Spinola Road,Spinola Bay,St. Julian's Tower Road
+202,Reykjavik,National Museum of Iceland,Hallgrímskirkja,Perlan,Laugavegur,Reykjavik City Pond,Reykjavik Helicopter Tours
+203,Kópavogur,Gerð,Kópavogur Church,Sundlaug Kópavogs,Hamraborg,Kópavogur Botanical Garden,Kópavogur Climbing Gym
+204,Hafnarfjörður,Hafnarfjörður Museum,Hafnarfjörður Museum,Viking Village,Strandgata,Hafnarfjörður Nature Reserve,Hafnarfjörður Lava Fields
+205,Podgorica,Museum of the City of Podgorica,King Nikola's Palace,Clock Tower,Bulevar Svetog Petra Cetinjskog,Podgorica City Park,Podgorica Canyon Nevidio
+206,Niksic,Bedem Fortress,Ostrog Monastery,Bedem Fortress,Njegoševa Street,Niksic City Park,Niksic Zipline
+207,Herceg Novi,Forte Mare,Herceg Novi Old Town,Savina Monastery,Pet Danica,Herceg Novi Promenade,Herceg Novi Paragliding
+208,Beirut,National Museum of Beirut,Grand Al Omari Mosque,National Museum of Beirut,Hamra Street,Beirut Corniche,Beirut Rock Climbing
+209,Tripoli,Tripoli Castle,Crusader Castle,Citadel of Raymond de Saint-Gilles,Al Mansouri Street,Tripoli Old City,Tripoli Paragliding
+210,Sidon,Sidon Sea Castle,Khan el Franj,Sidon Sea Castle,Al Bahri Street,Sidon Sea Castle,Sidon Scuba Diving

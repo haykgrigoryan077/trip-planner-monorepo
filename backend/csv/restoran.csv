@@ -1,0 +1,211 @@
+City_ID,City,solo_rest,fam_rest,couple_rest
+1,Paris,Septime,Le Relais de l'Entrecôte,Le Jules Verne
+2,Marseille,Le Petit Nice Passedat,Chez Fonfon,Le Chateaubriand
+3,Lyon,Paul Bocuse,Le Bouchon des Filles,Les Ombres
+4,New York City,Eleven Madison Park,Ellen's Stardust Diner,"One If By Land, Two If By Sea"
+5,Los Angeles,Republique,The Ivy,The Little Door
+6,Las Vegas,Joel Robuchon,The Buffet at Wynn,Joël Robuchon
+7,Madrid,Botín,Mercado de San Miguel,L'Atelier de Joël Robuchon
+8,Barcelona,Tickets,Tapa Tapa,Le Bernardin
+9,Seville,Abantal,Eslava,Per Se
+10,Rome,La Pergola,L'Antica Pizzeria da Michele,Gramercy Tavern
+11,Milan,Trussardi alla Scala,Luini,Eleven Madison Park
+12,Venice,Osteria Bancogiro,Trattoria Antiche Carampane,Nobu
+13,Beijing,Da Dong Roast Duck,Din Tai Fung,Le Bernardin
+14,Shanghai,Ultraviolet by Paul Pairet,Din Tai Fung,Daniel
+15,Guangzhou,Bing Sheng Mansion,Bingsheng Mansion,Gramercy Tavern
+16,Mexico City,Pujol,El Cardenal,Carbone
+17,Cancun,Fantino,La Parrilla,Balthazar
+18,Playa del Carmen,Alux Restaurant,La Famiglia,ABC Kitchen
+19,London,Sketch,Rainforest Cafe,Blue Hill at Stone Barns
+20,Manchester,The French,Hard Rock Cafe,Le Bernardin
+21,Edinburgh,The Kitchin,The Witchery by the Castle,Eleven Madison Park
+22,Bangkok,Gaggan,Cabbages & Condoms,The River Café
+23,Phuket,Suay,No.6 Restaurant,Peter Luger Steak House
+24,Chiang Mai,David's Kitchen,The Riverside,Russ & Daughters Cafe
+25,Berlin,Tim Raue,Zur Letzten Instanz,Via Carota
+26,Munich,Tantris,Hofbräuhaus,Il Buco
+27,Hamburg,Fischereihafen,Speicherstadt Restaurant,Minetta Tavern
+28,Tokyo,Sukiyabashi Jiro,Gonpachi,The Polo Bar
+29,Kyoto,Kikunoi,Pontocho Kappa,Sant Ambroeus
+30,Osaka,Matsusakagyu Yakiniku M,Kushikatsu Daruma,Cafe Luxembourg
+31,Toronto,Canoe,Marché Mövenpick,La Grenouille
+32,Vancouver,Hawksworth Restaurant,Granville Island Public Market,Bouley
+33,Montreal,Joe Beef,Joe Beef,Del Posto
+34,Sydney,Quay,Pancakes on the Rocks,Cafe Boulud
+35,Melbourne,Attica,The Colonial Tramcar Restaurant,Jean-Georges
+36,Brisbane,Esquire,South Bank Beer Garden,Le Coucou
+37,Athens,Funky Gourmet,O Thanasis,ABC Kitchen
+38,Thessaloniki,Zepos Restaurant,To Aristotelous,Gotham Bar and Grill
+39,Heraklion,Peskesi,Peskesi,L'Appartement
+40,New Delhi,Indian Accent,Saravana Bhavan,Augustine
+41,Mumbai,Masala Library,Britannia & Co.,Le Bernardin
+42,Jaipur,Suvarna Mahal,Indiana,Le Cirque
+43,Rio de Janeiro,Olympe,Porcão,L'Atelier de Joël Robuchon
+44,Sao Paulo,D.O.M.,Fogo de Chão,Shuko
+45,Salvador,Amado,Barraca do Lôro,Le Coucou
+46,Amsterdam,De Librije,Pancake Bakery,Per Se
+47,Rotterdam,Parkheuvel,Jamie's Italian,Jean-Georges
+48,The Hague,Han Ting Cuisine,Panorama Mesdag,Masa
+49,Seoul,Jungsik,Korea House,Momofuku Ko
+50,Busan,O'Kims,Millak Raw Fish Market,Peter Luger Steak House
+51,Incheon,Bada Sikdang,Songdo Seafood Market,Blue Hill at Stone Barns
+52,Moscow,White Rabbit,Mu-Mu,Union Square Cafe
+53,St. Petersburg,Palkin,Sadko,Jean-Georges
+54,Sochi,Sorn,Chalet de Marie,Momofuku Noodle Bar
+55,Buenos Aires,Don Julio,El Cuartito,Per Se
+56,Cordoba,Azafran,Las Tinajas,Buvette
+57,Rosario,El Viejo Almacén,El Rey del Milanesa,Gramercy Tavern
+58,Lisbon,Belcanto,Time Out Market,Union Square Cafe
+59,Porto,Pedro Lemos,Casa Guedes,Cafe Mogador
+60,Faro,Vila Joya,Restaurante Paixanito,Upland
+61,Vienna,Steirereck,Schweizerhaus,Sushi Nakazawa
+62,Salzburg,Hangar-7,Stieglkeller,Union Square Cafe
+63,Innsbruck,Lichtblick,Gasthaus Goldenes Dachl,Blue Ribbon Sushi
+64,Zurich,Pavillon,Swiss Chuchi,The Modern
+65,Geneva,Restaurant de l'Hotel de Ville,Cafe du Soleil,Momofuku Ssäm Bar
+66,Basel,Cheval Blanc,Restaurant Kunsthalle,Momofuku Noodle Bar
+67,Stockholm,Frantzen,Junibacken,Momofuku Ko
+68,Gothenburg,Bhoga,Sjömagasinet,Eleven Madison Park
+69,Malmo,Vollmers,Lilla Torg,Gramercy Tavern
+70,Cairo,Sequoia,Gad,Per Se
+71,Luxor,1886 Restaurant,Sofra Restaurant,Jean-Georges
+72,Sharm El Sheikh,Farsha Café,Fares Seafood,Le Bernardin
+73,Jakarta,Namaaz Dining,Eat & Eat,Daniel
+74,Bali,Locavore,Warung Nikmat,Eleven Madison Park
+75,Bandung,The Valley,Dago Bakery,Gramercy Tavern
+76,Hanoi,La Verticale,Bun Cha Huong Lien,Carbone
+77,Ho Chi Minh City,Cuc Gach Quan,Ben Thanh Street Food Market,Balthazar
+78,Da Nang,Waterfront Danang,Ba Na Hills Cable Car,ABC Kitchen
+79,Kuala Lumpur,Babe,Murni Discovery,Blue Hill at Stone Barns
+80,Penang,Kebaya,Tek Sen Restaurant,Le Bernardin
+81,Langkawi,Nam Restaurant,Cactus,Eleven Madison Park
+82,Marrakech,Le Foundouk,Dar Yacout,The River Café
+83,Casablanca,Rick's Café,Rick's Café,Peter Luger Steak House
+84,Fes,Nur,Café Clock,Russ & Daughters Cafe
+85,Brussels,Bon-Bon,Chez Léon,Via Carota
+86,Antwerp,The Jane,Frituur No.1,Il Buco
+87,Ghent,Chambre Séparée,Amadeus,Minetta Tavern
+88,Prague,Alcron,U Fleků,The Polo Bar
+89,Brno,Pavillon,Pegas Restaurant,Sant Ambroeus
+90,Ostrava,Masarykova Kavarna,Kozlovna,Cafe Luxembourg
+91,Manila,Gallery Vask,Vikings,La Grenouille
+92,Cebu City,Circa 1900,Zubuchon,Bouley
+93,Davao City,Claude's Le Café de Ville,Claude's Le Café de Ville,Del Posto
+94,Warsaw,Atelier Amaro,Zapiecek,Cafe Boulud
+95,Krakow,Bottiglieria 1881,Pod Wawelem,Jean-Georges
+96,Gdansk,Zielona Brama,Pierogarnia Mandu,Le Coucou
+97,Copenhagen,Noma,Tivoli Gardens,ABC Kitchen
+98,Aarhus,Gastromé,Restaurant Moment,Gotham Bar and Grill
+99,Odense,Restaurant Flammen,Anarkist,L'Appartement
+100,Oslo,Maaemo,Ekebergrestauranten,Augustine
+101,Bergen,Colonialen,Bryggen Tracteursted,Le Bernardin
+102,Stavanger,Re-Naa,Fisketorget,Le Cirque
+103,Johannesburg,La Colombe,Moyo,L'Atelier de Joël Robuchon
+104,Cape Town,The Test Kitchen,Mama Africa,Shuko
+105,Durban,The Oyster Box,Cargo Hold,Le Coucou
+106,Lima,Central,La Bodega de la Trattoria,Per Se
+107,Cusco,Chicha por Gastón Acurio,Cicciolina,Jean-Georges
+108,Arequipa,Zig Zag,Zig Zag,Masa
+109,Budapest,Onyx,Trofea Grill,Momofuku Ko
+110,Debrecen,Bocuse d'Or Restaurant,Régi Posta Étterem,Peter Luger Steak House
+111,Szeged,Büfé,Bon Appetit,Blue Hill at Stone Barns
+112,Helsinki,Olo,Juuri,Union Square Cafe
+113,Tampere,C Restaurant,Plevna,Jean-Georges
+114,Espoo,Aino,Fat Lizard Brewing Co.,Momofuku Noodle Bar
+115,Dublin,Chapter One,Dublin Zoo,Per Se
+116,Cork,Ichigo Ichie,Fota Island Resort,Buvette
+117,Galway,Aniar,The Quays,Gramercy Tavern
+118,Singapore City,Odette,Marché Mövenpick,Union Square Cafe
+119,Sentosa,Joël Robuchon,Trapizza,Cafe Mogador
+120,Marina Bay,Waku Ghin,Satay by the Bay,Upland
+121,Jerusalem,Machneyuda,Machneyuda,Sushi Nakazawa
+122,Tel Aviv,Mizlala,Kitchen Market,Union Square Cafe
+123,Haifa,Hanamal 24,El Marsa,Blue Ribbon Sushi
+124,Zagreb,Dubravkin Put,Mundoaka,The Modern
+125,Split,Dvor,Konoba Fetivi,Momofuku Ssäm Bar
+126,Dubrovnik,Proto,Porat Restaurant,Momofuku Noodle Bar
+127,Auckland,Sidart,Harbourside Seafood Bar & Grill,Momofuku Ko
+128,Wellington,Logan Brown,Queen Sally's Diamond Deli,Eleven Madison Park
+129,Christchurch,Roots,Little High Eatery,Gramercy Tavern
+130,Bogota,Harry Sasson,Crepes & Waffles,Per Se
+131,Medellin,El Cielo,Hacienda Junín,Jean-Georges
+132,Cartagena,Carmen,La Vitrola,Le Bernardin
+133,Santiago,Boragó,Liguria,Daniel
+134,Valparaiso,Oporto,Café Turri,Eleven Madison Park
+135,Vina del Mar,La Calma,Divino Pecado,Gramercy Tavern
+136,Riyadh,Najd Village,Najd Village,Carbone
+137,Jeddah,Nafoura,Al Baik,Balthazar
+138,Dammam,Sky Lounge,Al Khobar,ABC Kitchen
+139,Dubai,Al Mahara,Cheesecake Factory,Blue Hill at Stone Barns
+140,Abu Dhabi,Li Beirut,Al Fanar,Le Bernardin
+141,Sharjah,Al Mahatta Restaurant,Abu Shakra,Eleven Madison Park
+142,Taipei,RAW,Din Tai Fung,The River Café
+143,Kaohsiung,Lofty,TGI Fridays,Peter Luger Steak House
+144,Taichung,Le Moût,Cheesecake Factory,Russ & Daughters Cafe
+145,Kiev,Kanapa,Benihana,Via Carota
+146,Lviv,Baczewski Restaurant,Big Chefs,Il Buco
+147,Odessa,Bernardazzi,Olive Garden,Minetta Tavern
+148,Tehran,Divan,Chili's,The Polo Bar
+149,Isfahan,Shahrzad Restaurant,Shake Shack,Sant Ambroeus
+150,Shiraz,Haft Khan,Wagamama,Cafe Luxembourg
+151,Bucharest,Caru' cu Bere,Nando's,La Grenouille
+152,Cluj-Napoca,Baracca,KFC,Bouley
+153,Timisoara,Casa Bunicii,PizzaExpress,Del Posto
+154,Sofia,Cosmos,Vapiano,Cafe Boulud
+155,Plovdiv,Hemingway,Hard Rock Cafe,Jean-Georges
+156,Varna,Happy Bar & Grill,Five Guys,Le Coucou
+157,Bratislava,UFO Restaurant,Outback Steakhouse,ABC Kitchen
+158,Kosice,Villa Regia,Texas Roadhouse,Gotham Bar and Grill
+159,Banska Bystrica,Fačkovský mlyn,Red Lobster,L'Appartement
+160,Hong Kong,Lung King Heen,P.F. Chang's,Augustine
+161,Kowloon,Yan Toh Heen,Bubba Gump Shrimp Co.,Le Bernardin
+162,New Territories,Tin Lung Heen,Johnny Rockets,Le Cirque
+163,Belgrade,Homa,California Pizza Kitchen,L'Atelier de Joël Robuchon
+164,Novi Sad,Restaurant 021,Denny's,Shuko
+165,Nis,Balasevic,Tony Roma's,Le Coucou
+166,Vilnius,Džiaugsmas,IHOP,Per Se
+167,Kaunas,Monte Pacis,Buffalo Wild Wings,Jean-Georges
+168,Klaipeda,Friedricho pasazas,Olive Tree,Masa
+169,Riga,Vincents,The Cheesecake Factory,Momofuku Ko
+170,Daugavpils,Fortuna,Pappadeaux Seafood Kitchen,Peter Luger Steak House
+171,Liepaja,Fontaine Palace,Rainforest Cafe,Blue Hill at Stone Barns
+172,Tallinn,Ö,The Melting Pot,Union Square Cafe
+173,Tartu,Antonius Restaurant,Buca di Beppo,Jean-Georges
+174,Narva,Castle Restaurant,Dave & Buster's,Momofuku Noodle Bar
+175,Ljubljana,JB,Carrabba's Italian Grill,Per Se
+176,Maribor,Gostilna Maribor,Maggiano's Little Italy,Buvette
+177,Koper,Taverna Koper,Buona Beef,Gramercy Tavern
+178,Minsk,Grand Café,Elephant Bar,Union Square Cafe
+179,Brest,Gubernator,Chuck E. Cheese's,Cafe Mogador
+180,Gomel,Ploski,California Pizza Kitchen,Upland
+181,Luxembourg City,Mosconi,Sweet Tomatoes,Sushi Nakazawa
+182,Esch-sur-Alzette,Clairefontaine,Cracker Barrel,Union Square Cafe
+183,Differdange,Brasserie Beierhaascht,Golden Corral,Blue Ribbon Sushi
+184,Kuwait City,Beit Dickson,Fuddruckers,The Modern
+185,Hawalli,Dar Hamad,Perkins Restaurant & Bakery,Momofuku Ssäm Bar
+186,Al Ahmadi,Burj Al Hamam,Old Country Buffet,Momofuku Noodle Bar
+187,Doha,IDAM,Hometown Buffet,Momofuku Ko
+188,Al Rayyan,Opal by Gordon Ramsay,Sizzler,Eleven Madison Park
+189,Al Wakrah,Argan,Friendly's,Gramercy Tavern
+190,Muscat,Ubhar,Ruby Tuesday,Per Se
+191,Seeb,Bait Al Luban,Applebee's,Jean-Georges
+192,Salalah,Kargeen Caffe,Joe's Crab Shack,Le Bernardin
+193,Manama,Rasoi by Vineet,Black Angus Steakhouse,Daniel
+194,Riffa,Plums,Max Brenner Chocolate Bar,Eleven Madison Park
+195,Muharraq,Sato,Mellow Mushroom,Gramercy Tavern
+196,Nicosia,Dionysus Mansion,Buca di Beppo,Carbone
+197,Limassol,Vivaldi by Mavrommatis,Carrabba's Italian Grill,Balthazar
+198,Larnaca,To Kazani,The Old Spaghetti Factory,ABC Kitchen
+199,Valletta,Legligin Wine Bar,The Yard House,Blue Hill at Stone Barns
+200,Sliema,Ta' Kris,T.G.I. Friday's,Le Bernardin
+201,St. Julian's,The Avenue,The Rainforest Cafe,Eleven Madison Park
+202,Reykjavik,Dill,P.F. Chang's,The River Café
+203,Kópavogur,Grillid,Buffalo Wild Wings,Peter Luger Steak House
+204,Hafnarfjörður,Fiskfelagid,Bubba Gump Shrimp Co.,Russ & Daughters Cafe
+205,Podgorica,Pod Volat,Red Robin Gourmet Burgers,Via Carota
+206,Niksic,Kraljeva Sutjeska,Cracker Barrel,Il Buco
+207,Herceg Novi,Savina,The Cheesecake Factory,Minetta Tavern
+208,Beirut,Em Sherif,Texas Roadhouse,The Polo Bar
+209,Tripoli,Al-Rawda Café,Olive Garden,Sant Ambroeus
+210,Sidon,Al-Sultan Ibrahim,LongHorn Steakhouse,Cafe Luxembourg
